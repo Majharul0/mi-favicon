@@ -1,1 +1,1 @@
-<img src="MI_Icon.ico" width="100%" heigth="100%" />
+<img src="MI_Favicon.ico" width="100%" heigth="100%" />
